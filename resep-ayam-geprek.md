@@ -9,3 +9,4 @@
  Bersihkan ayam
  Potong ayam jadi 8 bagian
  Ungkep ayam
+ ya masak
