@@ -9,3 +9,5 @@
  Bersihkan ayam
  Potong ayam jadi 8 bagian
  Ungkep ayam
+ goreng ayam
+ bikin cabe
